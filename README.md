@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/VTU29666/APPLIED-PROGRAMMING-SKILLS/tree/master/0075-sort-colors) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/VTU29666/APPLIED-PROGRAMMING-SKILLS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/VTU29666/APPLIED-PROGRAMMING-SKILLS/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/VTU29666/APPLIED-PROGRAMMING-SKILLS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/VTU29666/APPLIED-PROGRAMMING-SKILLS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 <!---LeetCode Topics End-->
