@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/VTU29666/APPLIED-PROGRAMMING-SKILLS/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VTU29666/APPLIED-PROGRAMMING-SKILLS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/VTU29666/APPLIED-PROGRAMMING-SKILLS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Sorting
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/VTU29666/APPLIED-PROGRAMMING-SKILLS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VTU29666/APPLIED-PROGRAMMING-SKILLS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
